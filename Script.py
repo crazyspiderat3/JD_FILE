@@ -129,7 +129,7 @@ Nᴀᴍᴇ - {}
 ▫️𝗗𝗘𝗩𝗢𝗟𝗢𝗣𝗘𝗥 :  
 <a href='t.me/AFxSU'>𝐀𝐅𝐒𝐀𝐋
 </a>
-▫️𝗔𝗗𝗠𝗜𝗡𝗦  :-
+▫️𝗔𝗗𝗠𝗜𝗡𝗦  :
 - <a href='t.me/Crazy_Lolan'>ᴀᴊᴀs ᴋʜᴀɴ
 </a>- <a href='t.me/mr_d_fox'>ᴀᴋʜɪʟᴅᴇᴠ</a></b>
 """ 
