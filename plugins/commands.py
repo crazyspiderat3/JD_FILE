@@ -42,13 +42,13 @@ async def start(client, message):
                     InlineKeyboardButton('⚙Hᴇʟᴘ⚙', callback_data='help'),
                     InlineKeyboardButton('🧿Aʙᴏᴜᴛ🧿', callback_data='about')
                    ]]
-        reply_markup = InlineKeyboardMarkup(buttons)      
-        m=await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA") 
+        reply_markup = InlineKeyboardMarkup(buttons)  
+        m=await message.reply_sticker("CAACAgUAAxkBAAEFxa5jF4n1-mHPpxZu7g-4S_HSHZA9ZwACmgADyJRkFCxl4eFc7yVqKQQ") 
         await asyncio.sleep(1)
-        await m.delete()        
+        await m.delete()
         await message.reply_photo(
             photo=random.choice(PICS),
-            caption=START_TXT.format(message.from_user.mention,temp.U_NAME, temp.B_NAME),
+            caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
@@ -86,13 +86,13 @@ async def start(client, message):
                     InlineKeyboardButton('⚙Hᴇʟᴘ⚙', callback_data='help'),
                     InlineKeyboardButton('🧿Aʙᴏᴜᴛ🧿', callback_data='about')
                    ]]
-        reply_markup = InlineKeyboardMarkup(buttons)      
-        m=await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA") 
+        reply_markup = InlineKeyboardMarkup(buttons)  
+        m=await message.reply_sticker("CAACAgUAAxkBAAEFxa5jF4n1-mHPpxZu7g-4S_HSHZA9ZwACmgADyJRkFCxl4eFc7yVqKQQ") 
         await asyncio.sleep(1)
-        await m.delete()        
+        await m.delete()
         await message.reply_photo(
             photo=random.choice(PICS),
-            caption=START_TXT.format(message.from_user.mention,temp.U_NAME, temp.B_NAME),
+            caption=script.START_TXT.format(message.from_user.mention, temp.U_NAME, temp.B_NAME),
             reply_markup=reply_markup,
             parse_mode=enums.ParseMode.HTML
         )
