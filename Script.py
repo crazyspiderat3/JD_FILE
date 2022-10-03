@@ -131,7 +131,7 @@ Nᴀᴍᴇ - {}
 </a>
 ▫️𝗔𝗗𝗠𝗜𝗡𝗦  :-
 - <a href='t.me/Crazy_Lolan'>ᴀᴊᴀs ᴋʜᴀɴ
-</a> - <a href='t.me/mr_d_fox'>ᴀᴋʜɪʟᴅᴇᴠ</a></b>
+</a>- <a href='t.me/mr_d_fox'>ᴀᴋʜɪʟᴅᴇᴠ</a></b>
 """ 
 
     REQINFO = """
