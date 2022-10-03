@@ -13,9 +13,8 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 - ꜱᴏᴜʀᴄᴇ - <a href="https://github.com/EvamariaTG/EvaMaria">ʜᴇʀᴇ</a>
-DᴇᴠS:
-- <a href="https://t.me/
-- <a href="https://t.me/creatorbeatz">Jᴏᴇʟ ᠰ TɢX</a></b>"""
+Dᴇᴠᴇʟᴏᴘᴇʀ:
+- <a href="https://t.me/AFxSU">𝐀𝐅𝐒𝐀𝐋</a></b>"""
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
 - ꜰɪʟᴛᴇʀ ɪꜱ ᴀ ꜰᴇᴀᴛᴜʀᴇ ᴡᴇʀᴇ ᴜꜱᴇʀꜱ ᴄᴀɴ ꜱᴇᴛ ᴀᴜᴛᴏᴍᴀᴛᴇᴅ ʀᴇᴘʟɪᴇꜱ ꜰᴏʀ ᴀ ᴘᴀʀᴛɪᴄᴜʟᴀʀ ᴋᴇʏᴡᴏʀᴅ ᴀɴᴅ ɪ ᴡɪʟʟ ʀᴇꜱᴘᴏɴᴅ ᴡʜᴇɴᴇᴠᴇʀ ᴀ ᴋᴇʏᴡᴏʀᴅ ɪꜱ ꜰᴏᴜɴᴅ ɪɴ ᴛʜᴇ ᴍᴇꜱꜱᴀɢᴇ
 <b>ɴᴏᴛᴇ:</b>
@@ -34,7 +33,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/DQ_The_File_Donor_Updates)</code>
+<code>[Button Text](buttonurl:https://t.me/JD_BOT_SUPPORT)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
     AUTOFILTER_TXT = """ʜᴇʟᴘ: <b>ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ</b>
@@ -127,12 +126,12 @@ Nᴀᴍᴇ - {}
     OWNER_INFO = """
 <b>⍟───[  ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-▫️𝗗𝗘𝗩𝗢𝗟𝗢𝗣𝗘𝗥 :  <a href='t.me/AFxSU'>ᴀғsᴀʟ
+▫️𝗗𝗘𝗩𝗢𝗟𝗢𝗣𝗘𝗥 :  
+<a href='t.me/AFxSU'>𝐀𝐅𝐒𝐀𝐋
 </a>
 ▫️𝗔𝗗𝗠𝗜𝗡𝗦  :-
 - <a href='t.me/Crazy_Lolan'>ᴀᴊᴀs ᴋʜᴀɴ
-</a>
-- <a href='t.me/mr_d_fox'>ᴀᴋʜɪʟᴅᴇᴠ</a></b>
+</a> - <a href='t.me/mr_d_fox'>ᴀᴋʜɪʟᴅᴇᴠ</a></b>
 """ 
 
     REQINFO = """
