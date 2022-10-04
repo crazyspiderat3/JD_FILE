@@ -881,14 +881,14 @@ async def auto_filter(client, msg, spoll=False):
             **locals()
         )
     else:
-        cap = f"<b>🎪 ᴛɪᴛɪʟᴇ : {search}
+        cap =🎪 ᴛɪᴛɪʟᴇ : {search}
 
 ┏ 🎛️𝙶𝙴𝙽𝚁𝙴𝚂  : {genres}
 ┣ 🎙️𝙻𝙰𝙽𝙶𝚂 : {languages}
 ┣📆𝚈𝚎𝚊𝚛 : {year}
 ┣⏰𝚁𝚞𝚗 𝚃𝚒𝚖𝚎 :  {runtime}
 ┣ 🍁𝙶𝚁𝙾𝚄𝙿 : <a href="https://t.me/at3movies"> 𝘈𝘛3𝘮𝘰𝘷𝘪𝘦s</a>
-┗ 🗑️𝙸𝙽𝙵𝙾 : ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡᴀꜱ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ɪɴ 5 ᴍɪɴᴜᴛᴇꜱ </b>"
+┗ 🗑️𝙸𝙽𝙵𝙾 : ᴛʜɪꜱ ᴍᴇꜱꜱᴀɢᴇ ᴡᴀꜱ ᴀᴜᴛᴏᴍᴀᴛɪᴄᴀʟʟʏ ᴅᴇʟᴇᴛᴇᴅ ɪɴ 5 ᴍɪɴᴜᴛᴇꜱ 
 
 ❤️‍🔥𝙼𝙰𝙸𝙽𝚃𝙰𝙸𝙽𝙴𝙳 𝙱𝚈 : <a href="https://t.me/AFxSU">𝐀𝐅𝐱𝐒𝐔</a>
          if imdb and imdb.get('poster'):
