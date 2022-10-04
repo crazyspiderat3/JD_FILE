@@ -130,9 +130,14 @@ async def start(client, message):
                     caption=f_caption,
                     protect_content=msg.get('protect', False),
                     reply_markup=InlineKeyboardMarkup(
-                        [
-                         InlineKeyboardButton('🚸𝗗𝗘𝗟𝗘𝗧𝗘', callback_data='close_data')
-                        ]
+                         [
+                           InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
+                           InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                        ],[
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/AFxSU")
+                         ]
+                   
+                        
                     )
                 )
             except FloodWait as e:
@@ -145,8 +150,11 @@ async def start(client, message):
                     protect_content=msg.get('protect', False),
                     reply_markup=InlineKeyboardMarkup(
                         [
-                         InlineKeyboardButton('🚸𝗗𝗘𝗟𝗘𝗧𝗘', callback_data='close_data')
-                        ]
+                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
+                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                       ],[
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/AFxSU")
+                         ]
                     )
                 )
             except Exception as e:
@@ -211,8 +219,11 @@ async def start(client, message):
                 protect_content=True if pre == 'filep' else False,
                 reply_markup=InlineKeyboardMarkup(
                     [
-                     InlineKeyboardButton('🚸𝗗𝗘𝗟𝗘𝗧𝗘', callback_data='close_data')
-                    ]
+                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
+                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                       ],[
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/AFxSU")
+                         ]
                 )
             )
             filetype = msg.media
@@ -249,8 +260,11 @@ async def start(client, message):
         protect_content=True if pre == 'filep' else False,
         reply_markup=InlineKeyboardMarkup(
             [
-             InlineKeyboardButton('🚸𝗗𝗘𝗟𝗘𝗧𝗘', callback_data='close_data')
-            ]
+                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
+                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
+                       ],[
+                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/AFxSU")
+                         ]
         )
     )
                     
