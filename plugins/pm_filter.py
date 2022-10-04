@@ -883,8 +883,8 @@ async def auto_filter(client, msg, spoll=False):
     else:
         cap =🎪 ᴛɪᴛɪʟᴇ : {search}
 
-┏ 🎛️𝙶𝙴𝙽𝚁𝙴𝚂  : {genres}
-┣ 🎙️𝙻𝙰𝙽𝙶𝚂 : {languages}
+┏🎛️𝙶𝙴𝙽𝚁𝙴𝚂  : {genres}
+┣🎙️𝙻𝙰𝙽𝙶𝚂 : {languages}
 ┣📆𝚈𝚎𝚊𝚛 : {year}
 ┣⏰𝚁𝚞𝚗 𝚃𝚒𝚖𝚎 :  {runtime}
 ┣ 🍁𝙶𝚁𝙾𝚄𝙿 : <a href="https://t.me/at3movies"> 𝘈𝘛3𝘮𝘰𝘷𝘪𝘦s</a>
