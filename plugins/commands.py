@@ -132,9 +132,6 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                          [
                          [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                       ],[
                           InlineKeyboardButton('🚸𝗗𝗘𝗟𝗘𝗧𝗘', callback_data='close_data')
                          ]
                         ]
@@ -151,9 +148,6 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                         [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                       ],[
                           InlineKeyboardButton('🚸𝗗𝗘𝗟𝗘𝗧𝗘', callback_data='close_data')
                          ]
                         ]
@@ -220,12 +214,10 @@ async def start(client, message):
                 file_id=file_id,
                 protect_content=True if pre == 'filep' else False,
                 reply_markup=InlineKeyboardMarkup(
-                    [
-                    [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                       ],[
-                          InlineKeyboardButton('🚸𝗗𝗘𝗟𝗘𝗧𝗘', callback_data='close_data')
+                     [
+                     [
+                       InlineKeyboardButton('🚸𝗗𝗘𝗟𝗘𝗧𝗘', callback_data='close_data')
+
                          ]
                         ]
                 )
@@ -263,14 +255,12 @@ async def start(client, message):
         caption=f_caption,
         protect_content=True if pre == 'filep' else False,
         reply_markup=InlineKeyboardMarkup(
-            [
-            [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                       ],[
-                          InlineKeyboardButton('🚸𝗗𝗘𝗟𝗘𝗧𝗘', callback_data='close_data')
-                         ]
-                        ]
+              [
+              [
+                InlineKeyboardButton('🚸𝗗𝗘𝗟𝗘𝗧𝗘', callback_data='close_data')
+
+                 ]
+                ]
         )
     )
                     
