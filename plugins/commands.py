@@ -73,10 +73,10 @@ async def start(client, message):
                 btn.append([InlineKeyboardButton("↻ Tʀʏ Aɢᴀɪɴ", url=f"https://t.me/{temp.U_NAME}?start={message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text=""**Please Join 'ʙᴀᴄᴋ-ᴜᴘ ᴄʜᴀɴɴᴇʟ' 
-And click '🔄 Try Again' button
+            text="Please Join ʙᴀᴄᴋ-ᴜᴘ ᴄʜᴀɴɴᴇʟ
+And click 🔄 Try Again button
 
- ' ʙᴀᴄᴋ-ᴜᴘ ᴄʜᴀɴɴᴇʟ' ബട്ടണിൽ ക്ലിക്ക് ചെയ്ത്  ചാനലിൽ ചേരുക, തുടർന്ന് താഴെയുള്ള '🔄 Try Again' button' ബട്ടണിൽ ക്ലിക്കുചെയ്യുക..**"",
+  ʙᴀᴄᴋ-ᴜᴘ ᴄʜᴀɴɴᴇʟ ബട്ടണിൽ ക്ലിക്ക് ചെയ്ത്  ചാനലിൽ ചേരുക, തുടർന്ന് താഴെയുള്ള 🔄 Try Again button ബട്ടണിൽ ക്ലിക്കുചെയ്യുക..",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode=enums.ParseMode.MARKDOWN
             )
