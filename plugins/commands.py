@@ -73,7 +73,10 @@ async def start(client, message):
                 btn.append([InlineKeyboardButton("↻ Tʀʏ Aɢᴀɪɴ", url=f"https://t.me/{temp.U_NAME}?start={message.command[1]}")])
         await client.send_message(
             chat_id=message.from_user.id,
-            text="**You are not in our Back-up channel given below so you don't get the movie file...\n\nIf you want the movie file, click on the '🍿ᴊᴏɪɴ ᴏᴜʀ ʙᴀᴄᴋ-ᴜᴘ ᴄʜᴀɴɴᴇʟ🍿' button below and join our back-up channel, then click on the '🔄 Try Again' button below...\n\nThen you will get the movie files...**",
+            text="**Please Join  ʙᴀᴄᴋ-ᴜᴘ ᴄʜᴀɴɴᴇʟ 
+And click ' 🔄 Try Again ' button
+
+ ' ʙᴀᴄᴋ-ᴜᴘ ᴄʜᴀɴɴᴇʟ' ബട്ടണിൽ ക്ലിക്ക് ചെയ്ത്  ചാനലിൽ ചേരുക, തുടർന്ന് താഴെയുള്ള '🔄 Try Again' button' ബട്ടണിൽ ക്ലിക്കുചെയ്യുക..**",
             reply_markup=InlineKeyboardMarkup(btn),
             parse_mode=enums.ParseMode.MARKDOWN
             )
