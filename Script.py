@@ -1,6 +1,7 @@
 class script(object):
-    START_TXT = """<b>Sᴏʀʀʏ ɪ ᴏɴʟʏ ᴡᴏʀᴋ ᴏɴ <a href='t.me/at3movies'>𝘼𝙏3𝙈𝙊𝙑𝙄𝙀𝙎</a> Gʀᴏᴜᴘ
-𝚃𝙷𝙰𝙽𝙺𝚂 𝙵𝙾𝚁 𝚂𝚃𝙰𝚁𝚃{}</b>"""
+    START_TXT = """<b>Hey {}
+Am JD Just An Advance Auto Filter Bot....😉
+For More Details Click  Buttons Below..</b>"""
     HELP_TXT = """<b>Hᴇʏ {}
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
